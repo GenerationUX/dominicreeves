@@ -1,0 +1,150 @@
+{
+  "person": {
+    "name": "Dominic Reeves",
+    "email": "dom@dominicreeves.com",
+    "location": "London, UK",
+    "summary": [
+      "Solving complex design failures beyond playbooks.",
+      "Design Fixer: fixes bad UX, trims bloat, saves dev time.",
+      "Mentor-Consultant: levels up juniors, avoids costly mistakes."
+    ],
+    "links": {
+      "portfolio": "https://dominicreeves.com",
+      "store": "https://generationux.gumroad.com",
+      "figma": "https://figma.com/",
+      "github": "https://github.com/cf62",
+      "linkedin": "https://linkedin.com/in/dominicreeves",
+      "x_handle": "@dominicreeves"
+    }
+  },
+  "experience": [
+    {
+      "organization": "StripChain / Silent Protocol",
+      "sector": "Cryptocurrency",
+      "role": "Design Engineer",
+      "start": "2024",
+      "end": null,
+      "highlights": [
+        "Design of DEX, SDK, Wallet, marketing resources",
+        "Design System, Rive components, WebGL shader work"
+      ]
+    },
+    {
+      "organization": "CF62 + GenerationUX",
+      "sector": "Product Motion Design Systems",
+      "role": "Founder",
+      "start": "2024",
+      "end": null,
+      "highlights": [
+        "Rive-based data viz + motion design system",
+        "Open-source design tokens and tools",
+        "Radix/Shadcn implementation with extensive theming"
+      ]
+    },
+    {
+      "organization": "Superform.xyz",
+      "sector": "Cryptocurrency",
+      "role": "Principal Product Designer",
+      "start": "2022",
+      "end": "2024",
+      "highlights": [
+        "dApp design (cross-chain yield optimisation) for $200M+ deposits",
+        "ERC4626.info"
+      ]
+    },
+    {
+      "organization": "XTK / Token Terminal",
+      "sector": "Cryptocurrency",
+      "role": "[IC] Senior Product Designer",
+      "start": "2023",
+      "end": "2023",
+      "highlights": [
+        "Created 260k+ NFTs, smart contract deployment",
+        "Remix configuration and IPFS deployment"
+      ]
+    },
+    {
+      "organization": "IRi Worldwide",
+      "sector": "Analytics",
+      "role": "Design Director",
+      "start": "2020",
+      "end": "2022",
+      "highlights": [
+        "CPG analytics platform; AI/ML insights services",
+        "Design System / UI Library development"
+      ]
+    },
+    {
+      "organization": "dopex.io",
+      "sector": "Cryptocurrency",
+      "role": "[IC] Senior Product Designer",
+      "start": "2022",
+      "end": "2022",
+      "highlights": [
+        "dApp design (Option Chain, Trading, Yield products)"
+      ]
+    },
+    {
+      "organization": "curve.fi",
+      "sector": "Cryptocurrency",
+      "role": "[IC] Senior Product Designer",
+      "start": "2019",
+      "end": "2020",
+      "highlights": [
+        "Pool creation service & smart contract analysis",
+        "Optimised navigation/data layouts for $2B+ deposits"
+      ]
+    },
+    {
+      "organization": "Aimia Inc",
+      "sector": "Analytics",
+      "role": "Design Director",
+      "start": "2014",
+      "end": "2020",
+      "highlights": [
+        "Founded £25M+ business-critical product AIP",
+        "PaaS & SaaS products; hired/managed 40+"
+      ]
+    },
+    {
+      "organization": "Clixo Ltd",
+      "sector": "Agency",
+      "role": "Founder",
+      "start": "2010",
+      "end": "2014",
+      "highlights": [
+        "Agency services for: B&Q, Bank of England, BBC, BT, Citroën, Costa Coffee, Hasbro, Heinz, Honda, HP, Hyundai, KIA, Maserati, Motorola, NewsUK, Nintendo, Nissan, O2, Peugeot, Porsche, Range Rover, Sony"
+      ]
+    },
+    {
+      "organization": "Docomo Digital",
+      "sector": "Agency",
+      "role": "Design Director",
+      "start": "2009",
+      "end": "2010",
+      "highlights": [
+        "BP; British Military Fitness (App Store #3); Carphone Warehouse; McDonald’s; Metro (App Store #1); Swatch; The Sun; Universal Music"
+      ]
+    },
+    {
+      "organization": "Amplify Promotions Ltd",
+      "sector": "Agency",
+      "role": "Design Director",
+      "start": "2006",
+      "end": "2009",
+      "highlights": [
+        "Fitness First; Metro PCS; MOBO Awards; Motorola (MotoRokrStar contest); Pepsi; Sky; Sprint; Universal Music"
+      ]
+    },
+    {
+      "organization": "Bake Ltd",
+      "sector": "Agency",
+      "role": "Founder",
+      "start": "2003",
+      "end": "2006",
+      "highlights": [
+        "Bacardi; BBC; Channel 4; Endemol; Esselte; i-mode; Ilse Media; Ministry of Sound; Motorola; O2; Orange; Rexona; Samsung; Sony Ericsson; T-Mobile; TDK; Universal; Vodafone; Wanadoo"
+      ]
+    }
+  ]
+}
