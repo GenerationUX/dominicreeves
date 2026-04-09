@@ -1,150 +1,173 @@
 {
   "person": {
     "name": "Dominic Reeves",
-    "email": "dom@dominicreeves.com",
     "location": "London, UK",
-    "summary": [
-      "Solving complex design failures beyond playbooks.",
-      "Design Fixer: fixes bad UX, trims bloat, saves dev time.",
-      "Mentor-Consultant: levels up juniors, avoids costly mistakes."
-    ],
+    "headline": "Product-owning systems designer/builder for AI and complex financial products",
+    "title": "Product Design Lead / Design Engineer",
     "links": {
-      "portfolio": "https://dominicreeves.com",
-      "store": "https://generationux.gumroad.com",
-      "figma": "https://figma.com/",
-      "github": "https://github.com/cf62",
       "linkedin": "https://linkedin.com/in/dominicreeves",
-      "x_handle": "@dominicreeves"
+      "github": "https://github.com/cf62",
+      "website": "https://dominicreeves.com"
     }
   },
+  "profile": {
+    "summary_short": "I turn technically dense AI and financial products into systems teams can ship, users can trust, and companies can scale.",
+    "summary": "Product design lead and design engineer working across product strategy, UX architecture, design systems, and implementation for AI-native and complex financial products. Strong in 0→1 and scaling environments where the product is technically dense, the roadmap is ambiguous, and the team needs someone who can define the system, align the work, and ship to production. Experience spans enterprise analytics, DeFi, NFT infrastructure, and agent-native workflows. Led and scaled a £25M+ analytics product, supported $200M+ in deposits, and managed teams of 40+ designers and developers.",
+    "best_fit": [
+      "Founding Product Designer",
+      "Product Design Lead",
+      "Design Engineer"
+    ],
+    "regions": [
+      "UK",
+      "Europe",
+      "US"
+    ]
+  },
+  "leverage": [
+    "Turn ambiguity into a product model, working UX, and shippable roadmap",
+    "Reduce complex workflows into systems users can understand and teams can maintain",
+    "Build the design system and implementation layer together, not as separate afterthoughts",
+    "Work directly with engineers and often inside the stack",
+    "Stay close to production, telemetry, and actual system behavior"
+  ],
+  "recent_work": [
+    "TasteOps: built an agent-driven production pipeline with evaluation and redeployment loops",
+    "Sentury: designing APIs and orchestration for agent discovery and coordination",
+    "Makina: led product direction, design system architecture, tooling, and generative asset workflows",
+    "Superform / Dopex / Curve: designed DeFi flows across vaults, dashboards, structured products, and trader tooling",
+    "IRI / Aimia: helped build and scale a £25M+ enterprise analytics product"
+  ],
+  "skills": [
+    "Product strategy and roadmapping",
+    "UX architecture",
+    "Interaction design",
+    "Design systems",
+    "Design tokens",
+    "Component libraries",
+    "Frontend implementation",
+    "React",
+    "Next.js",
+    "Tailwind",
+    "AI/agent workflows",
+    "Financial product design",
+    "DeFi/crypto UX",
+    "Data visualization",
+    "Motion systems",
+    "Prototyping",
+    "Cross-functional leadership",
+    "Team management"
+  ],
   "experience": [
     {
-      "organization": "StripChain / Silent Protocol",
-      "sector": "Cryptocurrency",
-      "role": "Design Engineer",
-      "start": "2024",
+      "organization": "TasteOps and Sentury Inc",
+      "role": "Founder",
+      "start": 2026,
       "end": null,
       "highlights": [
-        "Design of DEX, SDK, Wallet, marketing resources",
-        "Design System, Rive components, WebGL shader work"
+        "Built agent-driven production pipeline spanning research, scripting, rendering, publishing, evaluation, and redeployment.",
+        "Developed product-motion systems for autonomous media output.",
+        "Designed APIs and tooling for agent-to-agent service discovery.",
+        "Defined product direction, deployment patterns, monitoring requirements, and UX for agent-native interfaces."
       ]
     },
     {
-      "organization": "CF62 + GenerationUX",
-      "sector": "Product Motion Design Systems",
-      "role": "Founder",
-      "start": "2024",
+      "organization": "Makina Finance",
+      "role": "Principal Product Designer",
+      "start": 2025,
       "end": null,
       "highlights": [
-        "Rive-based data viz + motion design system",
-        "Open-source design tokens and tools",
-        "Radix/Shadcn implementation with extensive theming"
+        "Owned product direction and brand evolution from v1.1 onward.",
+        "Built a scalable design system using Tailwind and token architecture.",
+        "Developed Figma plugins, AI-assisted component libraries, and generative asset pipelines to increase design and shipping speed."
+      ]
+    },
+    {
+      "organization": "StripChain / Silent Protocol",
+      "role": "Principal Product Designer",
+      "start": 2024,
+      "end": 2025,
+      "highlights": [
+        "Led UX/UI across DEX, SDK, and wallet products.",
+        "Designed interaction patterns for privacy-preserving and token-based flows.",
+        "Delivered an end-to-end design system, including Rive components and WebGL prototypes."
       ]
     },
     {
       "organization": "Superform.xyz",
-      "sector": "Cryptocurrency",
       "role": "Principal Product Designer",
-      "start": "2022",
-      "end": "2024",
+      "start": 2022,
+      "end": 2024,
       "highlights": [
-        "dApp design (cross-chain yield optimisation) for $200M+ deposits",
-        "ERC4626.info"
+        "Designed vault creation, deposit, and yield-tracking flows across a multi-chain product.",
+        "Supported $200M+ in deposits by clarifying complex financial workflows for users.",
+        "Built a scalable dashboard system and contributed ERC-4626 educational materials."
       ]
     },
     {
-      "organization": "XTK / Token Terminal",
-      "sector": "Cryptocurrency",
-      "role": "[IC] Senior Product Designer",
-      "start": "2023",
-      "end": "2023",
+      "organization": "Dopex",
+      "role": "Lead Product Designer",
+      "start": 2022,
+      "end": 2022,
       "highlights": [
-        "Created 260k+ NFTs, smart contract deployment",
-        "Remix configuration and IPFS deployment"
+        "Designed options chain and structured-product dApps.",
+        "Simplified liquidity provisioning and vault flows for advanced users.",
+        "Built payoff-visualization systems for complex financial products."
       ]
     },
     {
-      "organization": "IRi Worldwide",
-      "sector": "Analytics",
+      "organization": "Curve",
+      "role": "Lead Product Designer",
+      "start": 2019,
+      "end": 2020,
+      "highlights": [
+        "Simplified pool creation and smart contract workflows.",
+        "Improved trader-facing data layout and reduced friction across complex transaction flows."
+      ]
+    },
+    {
+      "organization": "IRI Worldwide / Aimia",
       "role": "Design Director",
-      "start": "2020",
-      "end": "2022",
+      "start": 2014,
+      "end": 2022,
       "highlights": [
-        "CPG analytics platform; AI/ML insights services",
-        "Design System / UI Library development"
+        "Led and scaled a £25M+ analytics product.",
+        "Directed platform UX for AI/ML insight dashboards and enterprise analytics workflows.",
+        "Built and scaled design systems and UI libraries.",
+        "Hired and managed 40+ designers and developers."
       ]
     },
     {
-      "organization": "dopex.io",
-      "sector": "Cryptocurrency",
-      "role": "[IC] Senior Product Designer",
-      "start": "2022",
-      "end": "2022",
+      "organization": "Earlier Experience",
+      "role": "Agency Design Director",
+      "start": 2003,
+      "end": 2014,
       "highlights": [
-        "dApp design (Option Chain, Trading, Yield products)"
-      ]
-    },
-    {
-      "organization": "curve.fi",
-      "sector": "Cryptocurrency",
-      "role": "[IC] Senior Product Designer",
-      "start": "2019",
-      "end": "2020",
-      "highlights": [
-        "Pool creation service & smart contract analysis",
-        "Optimised navigation/data layouts for $2B+ deposits"
-      ]
-    },
-    {
-      "organization": "Aimia Inc",
-      "sector": "Analytics",
-      "role": "Design Director",
-      "start": "2014",
-      "end": "2020",
-      "highlights": [
-        "Founded £25M+ business-critical product AIP",
-        "PaaS & SaaS products; hired/managed 40+"
-      ]
-    },
-    {
-      "organization": "Clixo Ltd",
-      "sector": "Agency",
-      "role": "Founder",
-      "start": "2010",
-      "end": "2014",
-      "highlights": [
-        "Agency services for: B&Q, Bank of England, BBC, BT, Citroën, Costa Coffee, Hasbro, Heinz, Honda, HP, Hyundai, KIA, Maserati, Motorola, NewsUK, Nintendo, Nissan, O2, Peugeot, Porsche, Range Rover, Sony"
-      ]
-    },
-    {
-      "organization": "Docomo Digital",
-      "sector": "Agency",
-      "role": "Design Director",
-      "start": "2009",
-      "end": "2010",
-      "highlights": [
-        "BP; British Military Fitness (App Store #3); Carphone Warehouse; McDonald’s; Metro (App Store #1); Swatch; The Sun; Universal Music"
-      ]
-    },
-    {
-      "organization": "Amplify Promotions Ltd",
-      "sector": "Agency",
-      "role": "Design Director",
-      "start": "2006",
-      "end": "2009",
-      "highlights": [
-        "Fitness First; Metro PCS; MOBO Awards; Motorola (MotoRokrStar contest); Pepsi; Sky; Sprint; Universal Music"
-      ]
-    },
-    {
-      "organization": "Bake Ltd",
-      "sector": "Agency",
-      "role": "Founder",
-      "start": "2003",
-      "end": "2006",
-      "highlights": [
-        "Bacardi; BBC; Channel 4; Endemol; Esselte; i-mode; Ilse Media; Ministry of Sound; Motorola; O2; Orange; Rexona; Samsung; Sony Ericsson; T-Mobile; TDK; Universal; Vodafone; Wanadoo"
+        "Led digital product and campaign work across major global brands.",
+        "Delivered multiple top-ranking App Store releases."
       ]
     }
+  ],
+  "tools": [
+    "Figma",
+    "React",
+    "Next.js",
+    "Tailwind",
+    "Radix",
+    "shadcn/ui",
+    "Rive",
+    "WebGL",
+    "design tokens",
+    "Claude",
+    "Codex",
+    "Cursor",
+    "Cline",
+    "Replit",
+    "Python",
+    "automation pipelines",
+    "ERC-4626",
+    "wallet UX",
+    "DEX flows",
+    "IPFS"
   ]
 }
