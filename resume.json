@@ -2,20 +2,20 @@
   "person": {
     "name": "Dominic Reeves",
     "location": "London, UK",
-    "headline": "Product-owning systems designer/builder for AI and complex financial products",
-    "title": "Product Design Lead / Design Engineer",
+    "headline": "Designer. Engineer. Director.",
+    "title": "Principal Product Designer / Design Engineer",
     "links": {
       "linkedin": "https://linkedin.com/in/dominicreeves",
-      "github": "https://github.com/cf62",
+      "github": "https://github.com/GenerationUX",
       "website": "https://dominicreeves.com"
     }
   },
   "profile": {
     "summary_short": "I turn technically dense AI and financial products into systems teams can ship, users can trust, and companies can scale.",
-    "summary": "Product design lead and design engineer working across product strategy, UX architecture, design systems, and implementation for AI-native and complex financial products. Strong in 0→1 and scaling environments where the product is technically dense, the roadmap is ambiguous, and the team needs someone who can define the system, align the work, and ship to production. Experience spans enterprise analytics, DeFi, NFT infrastructure, and agent-native workflows. Led and scaled a £25M+ analytics product, supported $200M+ in deposits, and managed teams of 40+ designers and developers.",
+    "summary": "Product designer, engineer, and director working across product strategy, UX architecture, design systems, and implementation for AI-native and complex financial products. Strong in 0→1 and scaling environments where the product is technically dense, the roadmap is ambiguous, and the team needs someone who can define the system, align the work, and ship to production. Experience spans enterprise analytics, DeFi, NFT infrastructure, and AI-driven art direction. Founded and scaled a £25M+ business-critical analytics product, designed dApp UX spanning $2B+ TVL (Curve) to $200M+ deposits (Superform), and managed 40+ designers and developers.",
     "best_fit": [
       "Founding Product Designer",
-      "Product Design Lead",
+      "Principal Product Designer",
       "Design Engineer"
     ],
     "regions": [
@@ -31,12 +31,19 @@
     "Work directly with engineers and often inside the stack",
     "Stay close to production, telemetry, and actual system behavior"
   ],
+  "highlights": [
+    "AI development: world-class, award-tier art direction with deterministic aesthetic orchestration (Claude, Cline, Codex, Cursor, Lovable, Motion, Remotion, Replit)",
+    "dApp design: Curve.fi, Dopex.io, Superform.xyz, StripChain/Silent Protocol, Makina Finance",
+    "Standards: ERC-4626 design evangelism and resources",
+    "Product systems: Rive-based data viz, design tokens, WebGL shader prototyping",
+    "Impact: UX spanning $2B+ deposits (Curve) to $200M+ TVL (Superform)"
+  ],
   "recent_work": [
-    "TasteOps: built an agent-driven production pipeline with evaluation and redeployment loops",
-    "Sentury: designing APIs and orchestration for agent discovery and coordination",
-    "Makina: led product direction, design system architecture, tooling, and generative asset workflows",
-    "Superform / Dopex / Curve: designed DeFi flows across vaults, dashboards, structured products, and trader tooling",
-    "IRI / Aimia: helped build and scale a £25M+ enterprise analytics product"
+    "CF62 (GenerationUX): built an art-direction engine with 6000+ design systems and a 7000+ visual vocabulary corpus, plus Rive-based motion systems for DeFi dashboards",
+    "Makina Finance: designed brand and product direction from v1.1 onward, with Figma plugins, AI-generated libraries, and Tailwind style systems",
+    "StripChain / Silent Protocol: led UX/UI for DEX, SDK, and wallet products in a stealth zk/privacy protocol",
+    "Superform: designed a cross-chain yield dApp with $200M+ in deposits and co-authored ERC-4626 resources",
+    "Curve / Dopex / XTK: designed DeFi flows across pools, options chains, structured products, and NFT analytics"
   ],
   "skills": [
     "Product strategy and roadmapping",
@@ -49,7 +56,8 @@
     "React",
     "Next.js",
     "Tailwind",
-    "AI/agent workflows",
+    "AI-assisted design and art direction",
+    "Deterministic generative systems",
     "Financial product design",
     "DeFi/crypto UX",
     "Data visualization",
@@ -60,26 +68,24 @@
   ],
   "experience": [
     {
-      "organization": "TasteOps and Sentury Inc",
-      "role": "Founder",
-      "start": 2026,
+      "organization": "CF62 (GenerationUX)",
+      "role": "Principal Product Designer",
+      "start": 2024,
       "end": null,
       "highlights": [
-        "Built agent-driven production pipeline spanning research, scripting, rendering, publishing, evaluation, and redeployment.",
-        "Developed product-motion systems for autonomous media output.",
-        "Designed APIs and tooling for agent-to-agent service discovery.",
-        "Defined product direction, deployment patterns, monitoring requirements, and UX for agent-native interfaces."
+        "Built GenerationUX art direction engine with 6000+ design systems and a 7000+ visual vocabulary corpus covering identity, UI, product, out-of-home, and film — same seed, same world, every time.",
+        "Built Rive-based motion design systems and data viz components for DeFi dashboards.",
+        "Published open-source design tokens, theming tools, and UI libraries (Radix/shadcn integrations)."
       ]
     },
     {
       "organization": "Makina Finance",
       "role": "Principal Product Designer",
       "start": 2025,
-      "end": null,
+      "end": 2026,
       "highlights": [
-        "Owned product direction and brand evolution from v1.1 onward.",
-        "Built a scalable design system using Tailwind and token architecture.",
-        "Developed Figma plugins, AI-assisted component libraries, and generative asset pipelines to increase design and shipping speed."
+        "Designed the brand and product direction from v1.1 onward.",
+        "Delivered extensive Figma designs, Figma plugins, AI-generated libraries (Variant, Flora, Midjourney), Tailwind and advanced style systems, plus Python scripts and automations."
       ]
     },
     {
@@ -88,9 +94,9 @@
       "start": 2024,
       "end": 2025,
       "highlights": [
-        "Led UX/UI across DEX, SDK, and wallet products.",
-        "Designed interaction patterns for privacy-preserving and token-based flows.",
-        "Delivered an end-to-end design system, including Rive components and WebGL prototypes."
+        "Led UX/UI for DEX, SDK, and wallet design in a stealth zk/privacy protocol.",
+        "Created Rive components and WebGL shader prototypes for token interactions and data visualization.",
+        "Shipped an end-to-end design system used across protocol apps and marketing."
       ]
     },
     {
@@ -99,9 +105,20 @@
       "start": 2022,
       "end": 2024,
       "highlights": [
-        "Designed vault creation, deposit, and yield-tracking flows across a multi-chain product.",
-        "Supported $200M+ in deposits by clarifying complex financial workflows for users.",
-        "Built a scalable dashboard system and contributed ERC-4626 educational materials."
+        "Designed a cross-chain yield dApp with $200M+ in deposits.",
+        "Co-authored ERC-4626 standard resources (erc4626.info) driving ecosystem adoption.",
+        "Delivered UX for vault creation, deposits, and yield tracking."
+      ]
+    },
+    {
+      "organization": "XTK Token Terminal",
+      "role": "Lead Product Designer",
+      "start": 2023,
+      "end": 2023,
+      "highlights": [
+        "Produced and deployed 260K+ NFTs (art creation, smart contract deployment, Remix config, IPFS hosting).",
+        "Contributed to token terminal design for analytics and community engagement.",
+        "Scoped workflows bridging NFT minting, DeFi analytics, and user dashboards."
       ]
     },
     {
@@ -110,9 +127,8 @@
       "start": 2022,
       "end": 2022,
       "highlights": [
-        "Designed options chain and structured-product dApps.",
-        "Simplified liquidity provisioning and vault flows for advanced users.",
-        "Built payoff-visualization systems for complex financial products."
+        "Designed options chain and structured-product dApps (trading, yield).",
+        "Improved flows for liquidity provision, vault deposits, and payoff visualization."
       ]
     },
     {
@@ -121,8 +137,8 @@
       "start": 2019,
       "end": 2020,
       "highlights": [
-        "Simplified pool creation and smart contract workflows.",
-        "Improved trader-facing data layout and reduced friction across complex transaction flows."
+        "Simplified pool creation UX and smart contract workflows for Curve's $2B+ TVL.",
+        "Optimized data layouts and navigation to improve trader efficiency."
       ]
     },
     {
@@ -131,20 +147,20 @@
       "start": 2014,
       "end": 2022,
       "highlights": [
-        "Led and scaled a £25M+ analytics product.",
-        "Directed platform UX for AI/ML insight dashboards and enterprise analytics workflows.",
-        "Built and scaled design systems and UI libraries.",
-        "Hired and managed 40+ designers and developers."
+        "Directed design of the analytics platform for CPG clients.",
+        "Built AI/ML insight dashboards and scaled the design system and UI library.",
+        "Founded and scaled a £25M+ business-critical analytics product.",
+        "Hired and managed 40+ design and dev staff."
       ]
     },
     {
-      "organization": "Earlier Experience",
-      "role": "Agency Design Director",
+      "organization": "Agency Roles (Clixo / Docomo Digital / Amplify / Bake)",
+      "role": "Design Director",
       "start": 2003,
       "end": 2014,
       "highlights": [
-        "Led digital product and campaign work across major global brands.",
-        "Delivered multiple top-ranking App Store releases."
+        "Delivered agency design and commercial services for major global brands including BBC, Bank of England, BT, Honda, Hyundai, McDonalds, Motorola, Nintendo, Pepsi, Sony, and Vodafone.",
+        "Delivered multiple top-ranking App Store releases (Metro #1, British Military Fitness #3)."
       ]
     }
   ],
@@ -162,12 +178,19 @@
     "Codex",
     "Cursor",
     "Cline",
+    "Lovable",
+    "Motion",
+    "Remotion",
     "Replit",
+    "Midjourney",
+    "Variant",
+    "Flora",
     "Python",
     "automation pipelines",
     "ERC-4626",
     "wallet UX",
     "DEX flows",
+    "NFT minting",
     "IPFS"
   ]
 }
